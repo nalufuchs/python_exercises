@@ -47,5 +47,4 @@ for _ in range (5):
 
 carro1.desligar()
 print(carro1)
-carro1.acelerar()
-print(carro1)
+
